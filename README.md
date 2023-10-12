@@ -73,3 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# curso-intro-react-2
+Version 2 de la actualizacion de todo lo aprendido en el Curso React.js tomado en Platzi
+
+Estructura base del repositorio de github https://github.com/platzi/curso-react-intro del profesor Juan David Castro
+(@juandc)
